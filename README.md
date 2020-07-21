@@ -3,56 +3,31 @@ DJI社のドローン「TELLO」の動画データを取得、画像処理を行
 
 ## DEMO
  
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
- 
-## Features
- 
-"hoge"のセールスポイントや差別化などを説明する
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/9uXh2t44w_M/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
  
 ## Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
-* huga 3.5.2
-* hogehuga 1.0.2
+python 3.8.3
+pip install -r requirement.txt
+私はAnaconda環境で実行しています。
  
 ## Installation
  
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
-```bash
-pip install huga_package
-```
+tellopyを利用しています。こちらをご覧ください。
+URL:https://github.com/hanyazou/TelloPy
  
 ## Usage
  
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+
+git clone https://github.com/moffy-Black/moffy-Tello.git
  
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+cd ~/moffy-Tellopy
+
+python main.py
  
 ## Note
  
-注意点などがあれば書く
+ドローンの操縦には周りを十分に確認し、安全に行ってください。
  
-## Author
- 
-作成情報を列挙する
- 
-* 作成者
-* 所属
-* E-mail
- 
-## License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
-
 ## Thank you!
