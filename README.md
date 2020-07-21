@@ -8,12 +8,15 @@ DJI社のドローン「TELLO」の動画データを取得、画像処理を行
 ## Requirement
  
 python 3.8.3
+
 pip install -r requirement.txt
+
 私はAnaconda環境で実行しています。
  
 ## Installation
  
 tellopyを利用しています。こちらをご覧ください。
+
 URL:https://github.com/hanyazou/TelloPy
  
 ## Usage
