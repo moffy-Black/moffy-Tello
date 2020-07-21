@@ -20,8 +20,6 @@ tellopyを利用しています。こちらをご覧ください。
 URL:https://github.com/hanyazou/TelloPy
  
 ## Usage
- 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 
 git clone https://github.com/moffy-Black/moffy-Tello.git
  
@@ -33,4 +31,4 @@ python main.py
  
 ドローンの操縦には周りを十分に確認し、安全に行ってください。
  
-## Thank you!
+## Thank you for watching!
