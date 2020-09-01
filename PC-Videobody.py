@@ -1,10 +1,8 @@
 import cv2
 import os
 # 検出器の読み込み
-cascades_dir = os.path.join('OpenCV', 'data', 'haarcascades')
-cascade_f = cv2.CascadeClassifier(os.path.join(
-    cascades_dir, 'haarcascade_frontalface_alt2.xml'))
-# cascade = cv2.CascadeClassifier(cascade_f)
+cascadeFile = 'haarcascade_upperbody.xml'
+cascade = cv2.CascadeClassifier(cascadeFile)
 # ESCキー番号
 esc = 27
 # webカメラ起動
@@ -21,7 +19,7 @@ while True:
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
     # 顔の検出
-    faces = cascade_f.detectMultiScale(gray)
+    faces = cascade.detectMultiScale(gray)
 
     for (x, y, w, h) in faces:
         # 四角で囲む
