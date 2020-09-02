@@ -3,7 +3,7 @@ DJI社のドローン「TELLO」の動画データを取得、画像処理を行
 
 ## DEMO
  
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/9uXh2t44w_M/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/9uXh2t44w_M/0.jpg)](https://youtu.be/9uXh2t44w_M)
  
 ## Requirement
  
