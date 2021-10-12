@@ -1,4 +1,4 @@
-opencv-python==3.4.8.29
+opencv-python==4.2.0.32
 tellopy
 av==8.0.2
 image
